@@ -1,0 +1,18 @@
+pip install torch==2.6.0+cu124 --index-url https://download.pytorch.org/whl/cu124 --timeout 120 --retries 5
+pip install bitsandbytes==0.45.5
+pip install triton==3.2.0
+pip install transformers==4.50.3
+pip install accelerate==1.5.2
+pip install peft==0.14.0
+pip install trl==0.15.2
+pip install xformers==0.0.29.post3
+pip install sentencepiece==0.2.0
+pip install protobuf==5.29.4
+pip install datasets==3.5.0
+pip install huggingface_hub==0.30.1
+pip install hf_transfer==0.1.9
+pip install unsloth==2025.3.19
+pip install unsloth_zoo==2025.3.17
+pip install tqdm==4.67.1
+
+
